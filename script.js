@@ -11,8 +11,7 @@ var CONFIG = {
   etUser: "",         // e-Transfer address, part before the @
   etHost: "",         // e-Transfer address, part after the @
   stripeLink: "",     // Stripe Payment Link (https://buy.stripe.com/...)
-  web3formsKey: "",   // Web3Forms access key
-  ga4Id: ""           // Google Analytics 4 measurement id
+  web3formsKey: ""    // Web3Forms access key
 };
 
 (function () {
@@ -20,22 +19,8 @@ var CONFIG = {
   var $ = function (s, r) { return (r || document).querySelector(s); };
   var $$ = function (s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); };
 
-  /* ---------- tracking ---------- */
-  function track(name, params) {
-    try {
-      window.dataLayer = window.dataLayer || [];
-      window.dataLayer.push(Object.assign({ event: name }, params || {}));
-      if (window.gtag) window.gtag("event", name, params || {});
-    } catch (e) {}
-  }
-  if (CONFIG.ga4Id) {
-    var g = document.createElement("script");
-    g.async = true; g.src = "https://www.googletagmanager.com/gtag/js?id=" + encodeURIComponent(CONFIG.ga4Id);
-    document.head.appendChild(g);
-    window.dataLayer = window.dataLayer || [];
-    window.gtag = function () { window.dataLayer.push(arguments); };
-    window.gtag("js", new Date()); window.gtag("config", CONFIG.ga4Id);
-  }
+  /* ---------- tracking: none (no analytics) ---------- */
+  function track() {}
 
   /* ---------- owner details ---------- */
   $$("[data-fill]").forEach(function (el) {
