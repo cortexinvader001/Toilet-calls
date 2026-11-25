@@ -10,7 +10,7 @@ var CONFIG = {
   response: "",       // response-time wording used on confirmations
   etUser: "",         // e-Transfer address, part before the @
   etHost: "",         // e-Transfer address, part after the @
-  squareLink: "",     // Square payment link
+  stripeLink: "",     // Stripe Payment Link (https://buy.stripe.com/...)
   web3formsKey: "",   // Web3Forms access key
   ga4Id: ""           // Google Analytics 4 measurement id
 };
@@ -81,7 +81,7 @@ var CONFIG = {
 
   /* ---------- payments ---------- */
   var pb = $("#payBtn");
-  if (pb) { if (CONFIG.squareLink) pb.href = CONFIG.squareLink; else pb.removeAttribute("target"); }
+  if (pb) { if (CONFIG.stripeLink) pb.href = CONFIG.stripeLink; else pb.removeAttribute("target"); }
   var eb = $("#etBtn");
   if (eb) {
     var box = $("#etBox"), em = $("#etEmail"), pm = $("#payMsg");
