@@ -8,8 +8,8 @@ var CONFIG = {
   hours: "10 am - 6 pm. Emergencies 24/7.",
   area: "Winnipeg and surrounding area",
   response: "",       // response-time wording used on confirmations
-  etUser: "",         // e-Transfer address, part before the @
-  etHost: "",         // e-Transfer address, part after the @
+  etUser: "payments",         // e-Transfer address, part before the @
+  etHost: "toiletcall.example",         // e-Transfer address, part after the @
   stripeLink: "",     // Stripe Payment Link (https://buy.stripe.com/...)
   web3formsKey: ""    // Web3Forms access key
 };
@@ -116,7 +116,7 @@ var CONFIG = {
 
       function done(sent) {
         track("form_submit", { form: kind, referral: isReferral });
-        var resp = CONFIG.response || '<span class="tbc">[Response-time wording: OWNER TO CONFIRM]</span>';
+        var resp = CONFIG.response || "We reply during opening hours (10 am - 6 pm), and emergencies are answered 24/7. For the fastest help, call us.";
         var html;
         if (isReferral) {
           html = "<h3>Referral request received</h3><p>Thank you" + (name ? ", " + esc(name) : "") + ". ToiletCall is a cleaning service, so we do not do pipe work ourselves. We will connect you with a licensed plumber from our partner network.</p>" +
