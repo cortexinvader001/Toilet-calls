@@ -2,11 +2,11 @@
    Fill in CONFIG when the owner confirms each detail. Anything left empty
    keeps its visible "[OWNER TO CONFIRM]" placeholder on the page. */
 var CONFIG = {
-  phone: "(204) 555-0142",          // shown text, e.g. "204 555 0123"
-  phoneTel: "+12045550142",       // dialling number, e.g. "+12045550123"
+  phone: "(431) 340-5777",          // shown text, e.g. "204 555 0123"
+  phoneTel: "+14313405777",       // dialling number, e.g. "+12045550123"
   email: "hello@toiletcall.example",
-  hours: "Mon-Sun, 7 am - 10 pm (dummy)",
-  area: "",
+  hours: "10 am - 6 pm. Emergencies 24/7.",
+  area: "Winnipeg and surrounding area",
   response: "",       // response-time wording used on confirmations
   etUser: "",         // e-Transfer address, part before the @
   etHost: "",         // e-Transfer address, part after the @

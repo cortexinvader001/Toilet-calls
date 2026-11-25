@@ -452,3 +452,8 @@ label.opt input{width:20px;min-height:20px;height:20px;accent-color:var(--teal);
 .scrim{inset:var(--hh) 0 0 0}
 @media (min-width:900px) and (max-width:1199px){.call-pill{display:inline-flex}}
 .hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.price .amt{text-align:right}
+.price .amt b{display:block;font-size:1.7rem;letter-spacing:-.02em;color:var(--blue)}
+.price .amt small{color:var(--text-2);font-size:.82rem}
+@media (max-width:599px){.price .amt{text-align:left}}
+.fnote{margin-bottom:18px}
