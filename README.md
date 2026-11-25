@@ -1,12 +1,16 @@
-# Toilet Calls
+# ToiletCall.ca
 
-Static website for Toilet Calls: Home, Services, About and Contact pages. Plain HTML, CSS and JavaScript, no build step.
+Static website for ToiletCall.ca, a toilet cleaning and rescue service (not a plumbing company). Plain HTML, CSS and JavaScript, no build step.
+
+Pages: Home, Services, For Businesses, For Property Managers, Pricing, About, FAQ, Contact/Book, Privacy.
 
 ## Run locally
 Open `index.html` in a browser.
 
 ## Before launch
-- Replace the dummy phone number (07700 900123), area (Bristol) and emails (hello@ / payments@toiletcalls.example). The e-Transfer address is in `script.js`.
-- Paste the Square payment link into `SQUARE_LINK` in `script.js`.
-- Add the Web3Forms access key to the quote form on `contact.html`.
-- Change the `og:image` and `twitter:image` tags to the full address of `og-image.png` on the live domain.
+All settings are in the `CONFIG` block at the top of `script.js`:
+- Replace the dummy phone, email and hours; fill in the service area.
+- `squareLink`: paste the Square payment link. `etUser` / `etHost`: the e-Transfer email.
+- `web3formsKey`: Web3Forms access key (forms are in demo mode until set). `ga4Id`: optional analytics.
+- Fill every remaining `[OWNER TO CONFIRM]` placeholder (prices, reviews, credentials, hygiene statement, privacy details).
+- Replace the hero and About photos with cleaning-focused ones.
