@@ -4,12 +4,12 @@
 var CONFIG = {
   phone: "(431) 340-5777",          // shown text, e.g. "204 555 0123"
   phoneTel: "+14313405777",       // dialling number, e.g. "+12045550123"
-  email: "hello@toiletcall.example",
+  email: "admin@toiletcall.ca",
   hours: "10 am - 6 pm. Emergencies 24/7.",
   area: "Winnipeg and surrounding area",
   response: "",       // response-time wording used on confirmations
-  etUser: "payments",         // e-Transfer address, part before the @
-  etHost: "toiletcall.example",         // e-Transfer address, part after the @
+  etUser: "admin",         // e-Transfer address, part before the @
+  etHost: "toiletcall.ca",         // e-Transfer address, part after the @
   stripeLink: "",     // Stripe Payment Link (https://buy.stripe.com/...)
   web3formsKey: ""    // Web3Forms access key
 };
