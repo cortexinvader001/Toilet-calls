@@ -31,3 +31,12 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # Custom pages and file protection
 Options -Indexes
+
+# Custom 404 page
+ErrorDocument 404 /404.html
+
+# Correct types for SEO files
+<IfModule mod_mime.c>
+  AddType text/plain .txt
+  AddType application/manifest+json .webmanifest
+</IfModule>

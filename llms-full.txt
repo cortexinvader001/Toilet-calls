@@ -1,0 +1,94 @@
+# ToiletCall.ca
+
+> ToiletCall is a toilet cleaning and rescue service in Winnipeg, Manitoba, Canada. We clean, sanitize, unclog simple waste or paper blockages, remove odours and restock restrooms. ToiletCall is NOT a plumbing company: for pipe repairs, leaks or toilet installation we refer customers to a licensed plumber.
+
+Phone: (431) 340-5777 | Email: admin@toiletcall.ca | Address: 591 Notre Dame Avenue, Winnipeg, MB | Hours: 10 am - 6 pm; emergencies 24/7 | Prices in CAD, before tax.
+
+## Services
+
+### Emergency toilet cleaning and sanitizing
+URL: https://toiletcall.ca/emergency-toilet-cleaning.html
+For toilets that are dirty, soiled or unusable right now. Full clean and sanitize of bowl, seat, exterior, base and surrounding floor area.
+When to call: Call when the toilet is dirty, soiled or unusable right now.
+Included: Bowl, seat, exterior, base and surrounding floor area, cleaned and sanitized.
+Price: $89 per visit. After-hours and emergency call-outs: $129. Prices in CAD, before tax.
+
+### Unclogging - no plumbing repair
+URL: https://toiletcall.ca/toilet-unclogging.html
+For blockages caused by waste or paper. Cleared without plumbing repairs. If the blockage is in the pipes, we say so and refer a licensed plumber.
+When to call: Call when the toilet is blocked by waste or paper.
+Included: Clearing of waste or paper blockages, with cleaning and sanitizing around the toilet.
+Price: Included in the $89 one-time toilet rescue visit ($129 after hours or in an emergency). Prices in CAD, before tax.
+
+### Odour removal and deodorizing
+URL: https://toiletcall.ca/toilet-odour-removal.html
+For persistent smells. Deep clean, sanitize and deodorize, including the base seal area and surrounding surfaces we can reach without repairs.
+When to call: Call when a smell keeps coming back.
+Included: Deep clean, sanitizing and deodorizing, including the base seal area and reachable surrounding surfaces.
+Price: Included in the $89 one-time toilet rescue visit ($129 after hours or in an emergency). Prices in CAD, before tax.
+
+### Restroom restocking
+URL: https://toiletcall.ca/restroom-restocking.html
+Tissue, soap and paper towels checked and refilled. Can be a one-off visit or part of a business subscription.
+When to call: Call when supplies run low, or ask about a business subscription.
+Included: Tissue, soap and paper towels checked and refilled.
+Price: $39 per visit. Supplies billed at cost, or we restock with yours. Best added to a business subscription. Prices in CAD, before tax.
+
+### Scheduled restroom inspections
+URL: https://toiletcall.ca/restroom-inspections.html
+Regular checks for businesses: cleanliness, odours, supplies and issues spotted early, with a simple report after each visit.
+When to call: Call to set up regular checks for your business.
+Included: Checks of cleanliness, odours and supplies, with a simple report after each visit.
+Price: Part of the business restroom-care subscription, from $149/month. Prices in CAD, before tax.
+
+### Move-in / move-out deep cleaning
+URL: https://toiletcall.ca/move-in-move-out-toilet-cleaning.html
+Toilet deep cleaning for empty or newly occupied homes, rentals and listings - before keys change hands or guests arrive.
+When to call: Call before a move-in, a move-out or a guest arrival.
+Included: Toilet deep cleaning for empty or newly occupied homes, rentals and listings.
+Price: $69 for the first bathroom, $39 for each additional bathroom. Prices in CAD, before tax.
+
+### Help for seniors, landlords and Airbnb hosts
+URL: https://toiletcall.ca/seniors-landlords-airbnb-toilet-help.html
+Respectful in-home assistance for seniors; fast turnarounds for landlords and hosts between tenants and guests.
+When to call: Call when you or a family member needs toilet help at home, or between tenants and guests.
+Included: Respectful in-home assistance, and fast turnarounds for landlords and hosts.
+Price: Visits start at $89 (one-time rescue). Property managers: see the rate card. Prices in CAD, before tax.
+
+## Business subscription plans (CAD/month, before tax)
+- Essential $149: 1 restroom, weekly visit
+- Standard $249: up to 3 restrooms, weekly visits
+- High-traffic $399: high-traffic restrooms, twice-weekly visits
+Emergency call-outs for subscribers at the standard $89 rate or better.
+
+## Property-manager rate card (CAD, before tax)
+- Emergency cleaning call-out $79 ($59 for account holders on a monthly plan)
+- Tenant-turnover sanitation $59 per bathroom
+- Supply delivery $25 plus supplies
+- Optional retainer $99/month per property, call-outs at $59
+
+## Frequently asked questions
+
+### Are you a plumbing company?
+No. ToiletCall is a toilet cleaning and rescue service, not a plumbing company. We clean, sanitize, unclog simple blockages, remove odours and restock restrooms. For pipe repairs, leaks or installation, we connect you with a licensed plumber.
+
+### Can you unclog a toilet?
+Yes, when the blockage is caused by waste or paper and no repairs are needed. If the blockage is in the pipes, we will say so and refer you to a licensed plumber.
+
+### Do you install toilets?
+No. Installing or replacing a toilet is plumbing work. We will refer you to a licensed plumber.
+
+### Do you offer monthly plans for businesses?
+Yes. Our restroom-care subscription covers scheduled inspections, cleaning and sanitizing, restocking and emergency call-outs. See For Businesses.
+
+### What if water is leaking from a pipe?
+That is a plumbing job, and we do not do it. We will tell you straight away and connect you with a licensed plumber from our partner network.
+
+### Can you help seniors, landlords and Airbnb hosts?
+Yes. We offer respectful in-home help for seniors, and fast turnarounds for landlords and hosts between tenants and guests.
+
+### How do I pay?
+By card through Stripe’s secure payment page, or by Interac e-Transfer. See the payment options.
+
+### Where do you work, and when?
+Service area: Winnipeg and surrounding area Hours: 10 am - 6 pm. Emergencies 24/7.
