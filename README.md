@@ -14,3 +14,6 @@ All settings are in the `CONFIG` block at the top of `script.js`:
 - `web3formsKey`: Web3Forms access key (forms are in demo mode until set).
 - Fill every remaining `[OWNER TO CONFIRM]` placeholder (prices, reviews, credentials, hygiene statement, privacy details).
 - Replace the hero and About photos with cleaning-focused ones.
+
+## Hosting (Hostinger)
+Upload every file (including `.htaccess`) into `public_html`, enable the free SSL certificate, then visit the site. `.htaccess` forces HTTPS and adds security headers. Note that `.htaccess` is a hidden file: make sure hidden files are shown when uploading.
