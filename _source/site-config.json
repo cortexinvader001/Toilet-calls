@@ -1,0 +1,19 @@
+{
+  "domain": "https://toiletcall.ca",
+  "phone": "(431) 340-5777",
+  "phone_tel": "+14313405777",
+  "phone_intl": "+1-431-340-5777",
+  "email": "admin@toiletcall.ca",
+  "street": "591 Notre Dame Avenue",
+  "city": "Winnipeg",
+  "region": "MB",
+  "hours": "10 am - 6 pm. Emergencies 24/7.",
+  "area": "Winnipeg and surrounding area",
+  "response": "We reply during opening hours (10 am - 6 pm), and emergencies are answered 24/7. For the fastest help, call us.",
+  "etransfer_email": "admin@toiletcall.ca",
+  "stripe_link": "",
+  "web3forms_key": "",
+  "hygiene_statement": "We use cleaners and disinfectants suited to toilet and restroom surfaces, wear gloves on every job, and use separate cloths for toilets and for other surfaces.",
+  "reviews_text": "Customer reviews will appear here as they come in.",
+  "credentials_text": "Business registration and insurance details are available on request."
+}

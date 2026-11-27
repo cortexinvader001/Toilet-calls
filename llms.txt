@@ -2,27 +2,27 @@
 
 > ToiletCall is a toilet cleaning and rescue service in Winnipeg, Manitoba, Canada. We clean, sanitize, unclog simple waste or paper blockages, remove odours and restock restrooms. ToiletCall is NOT a plumbing company: for pipe repairs, leaks or toilet installation we refer customers to a licensed plumber.
 
-Phone: (431) 340-5777 | Email: admin@toiletcall.ca | Address: 591 Notre Dame Avenue, Winnipeg, MB | Hours: 10 am - 6 pm; emergencies 24/7 | Prices in CAD, before tax.
+Phone: (431) 340-5777 | Email: admin@toiletcall.ca | Address: 591 Notre Dame Avenue, Winnipeg, MB | Hours: 10 am - 6 pm. Emergencies 24/7. | Prices in CAD, before tax.
 
 ## Services
-- [Emergency toilet cleaning and sanitizing](https://toiletcall.ca/emergency-toilet-cleaning.html): For toilets that are dirty, soiled or unusable right now. Full clean and sanitize of bowl, seat, exterior, base and surrounding floor area.
-- [Unclogging - no plumbing repair](https://toiletcall.ca/toilet-unclogging.html): For blockages caused by waste or paper. Cleared without plumbing repairs. If the blockage is in the pipes, we say so and refer a licensed plumber.
-- [Odour removal and deodorizing](https://toiletcall.ca/toilet-odour-removal.html): For persistent smells. Deep clean, sanitize and deodorize, including the base seal area and surrounding surfaces we can reach without repairs.
-- [Restroom restocking](https://toiletcall.ca/restroom-restocking.html): Tissue, soap and paper towels checked and refilled. Can be a one-off visit or part of a business subscription.
-- [Scheduled restroom inspections](https://toiletcall.ca/restroom-inspections.html): Regular checks for businesses: cleanliness, odours, supplies and issues spotted early, with a simple report after each visit.
-- [Move-in / move-out deep cleaning](https://toiletcall.ca/move-in-move-out-toilet-cleaning.html): Toilet deep cleaning for empty or newly occupied homes, rentals and listings - before keys change hands or guests arrive.
-- [Help for seniors, landlords and Airbnb hosts](https://toiletcall.ca/seniors-landlords-airbnb-toilet-help.html): Respectful in-home assistance for seniors; fast turnarounds for landlords and hosts between tenants and guests.
+- [Emergency toilet cleaning and sanitizing](https://toiletcall.ca/emergency-toilet-cleaning): For toilets that are dirty, soiled or unusable right now. Full clean and sanitize of bowl, seat, exterior, base and surrounding floor area.
+- [Unclogging - no plumbing repair](https://toiletcall.ca/toilet-unclogging): For blockages caused by waste or paper. Cleared without plumbing repairs. If the blockage is in the pipes, we say so and refer a licensed plumber.
+- [Odour removal and deodorizing](https://toiletcall.ca/toilet-odour-removal): For persistent smells. Deep clean, sanitize and deodorize, including the base seal area and surrounding surfaces we can reach without repairs.
+- [Restroom restocking](https://toiletcall.ca/restroom-restocking): Tissue, soap and paper towels checked and refilled. Can be a one-off visit or part of a business subscription.
+- [Scheduled restroom inspections](https://toiletcall.ca/restroom-inspections): Regular checks for businesses: cleanliness, odours, supplies and issues spotted early, with a simple report after each visit.
+- [Move-in / move-out deep cleaning](https://toiletcall.ca/move-in-move-out-toilet-cleaning): Toilet deep cleaning for empty or newly occupied homes, rentals and listings - before keys change hands or guests arrive.
+- [Help for seniors, landlords and Airbnb hosts](https://toiletcall.ca/seniors-landlords-airbnb-toilet-help): Respectful in-home assistance for seniors; fast turnarounds for landlords and hosts between tenants and guests.
 
 ## Customers
-- [For Businesses](https://toiletcall.ca/for-businesses.html): monthly restroom-care subscriptions from $149/month (restaurants, gas stations, offices, churches, small businesses).
-- [For Property Managers](https://toiletcall.ca/for-property-managers.html): toilet concierge for rental properties, emergency call-out $79 ($59 for account holders).
+- [For Businesses](https://toiletcall.ca/for-businesses): monthly restroom-care subscriptions from $149/month (restaurants, gas stations, offices, churches, small businesses).
+- [For Property Managers](https://toiletcall.ca/for-property-managers): toilet concierge for rental properties, emergency call-out $79 ($59 for account holders).
 
 ## Key facts
-- [Pricing](https://toiletcall.ca/pricing.html): one-time toilet rescue $89 per visit, $129 after hours or emergency; move-in/move-out deep clean $69 first bathroom, $39 each additional; restocking $39 per visit.
-- [FAQ](https://toiletcall.ca/faq.html): answers on scope, unclogging, plans and payment.
-- [About](https://toiletcall.ca/about.html): cleaning-only by design, honest referrals to licensed plumbers when needed.
-- [Book or contact](https://toiletcall.ca/contact.html): booking form, phone, card and Interac e-Transfer payment.
+- [Pricing](https://toiletcall.ca/pricing): one-time toilet rescue $89 per visit, $129 after hours or emergency; move-in/move-out deep clean $69 first bathroom, $39 each additional; restocking $39 per visit.
+- [FAQ](https://toiletcall.ca/faq): answers on scope, unclogging, plans and payment.
+- [About](https://toiletcall.ca/about): cleaning-only by design, honest referrals to licensed plumbers when needed.
+- [Book or contact](https://toiletcall.ca/contact): booking form, phone, card and Interac e-Transfer payment.
 
 ## Optional
 - [Full text version](https://toiletcall.ca/llms-full.txt)
-- [Privacy](https://toiletcall.ca/privacy.html)
+- [Privacy](https://toiletcall.ca/privacy)
