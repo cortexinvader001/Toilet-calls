@@ -160,6 +160,7 @@ def business_node():
 
 
 def seo_extra(fname, title, desc):
+    VERIFY = (f'\n<meta name="google-site-verification" content="{CFG["google_site_verification"]}">' if CFG.get("google_site_verification") else "") + (f'\n<meta name="msvalidate.01" content="{CFG["bing_site_verification"]}">' if CFG.get("bing_site_verification") else "")
     url = DOMAIN + ("/" if fname == "index.html" else "/" + fname.replace(".html", ""))
     clean_title = re.sub(r"&amp;", "&", title)
     graph = [business_node(),
@@ -178,7 +179,7 @@ def seo_extra(fname, title, desc):
     head = f'''<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 <link rel="alternate" hreflang="en-CA" href="{url}">
 <link rel="alternate" hreflang="x-default" href="{url}">
-<meta name="author" content="ToiletCall">
+<meta name="author" content="ToiletCall">{VERIFY}
 <meta name="geo.region" content="CA-MB"><meta name="geo.placename" content="Winnipeg">
 <meta name="format-detection" content="telephone=yes">
 <meta name="apple-mobile-web-app-title" content="ToiletCall">

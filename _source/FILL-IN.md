@@ -19,6 +19,8 @@ It rebuilds all pages, the sitemap, `llms.txt`, structured data and `config.js` 
 | `hygiene_statement` | About page: products and hygiene wording | Draft - **confirm** |
 | `reviews_text` | About page reviews line. Replace with real reviews when there are some | Placeholder |
 | `credentials_text` | Registration and insurance wording. Only claim what is true | Draft - **confirm** |
+| `google_site_verification` | Search Console HTML-tag method: paste ONLY the `content` value (the long code) from the tag Google gives you | Needed after launch |
+| `bing_site_verification` | Bing Webmaster Tools meta-tag code (`msvalidate.01` content value) | Optional |
 | `domain` | Site address used in canonical links, sitemap and search data | https://toiletcall.ca |
 
 ## Not in the config file (edit `_source/build.py`)
